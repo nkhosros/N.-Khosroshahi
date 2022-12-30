@@ -1,11 +1,10 @@
-# N. KHOSROSHAHI
-## Academic Background
+# N. KHOSROSHAHI 
+>Dream Big! Never Give Up!
 
-![This is an image](https://github.com/nkhosros/N.-Khosroshahi/blob/main/300px-Najmeh.jpg?raw=true)
+## Academic Background 
+<img src="https://github.com/nkhosros/N.-Khosroshahi/blob/main/300px-Najmeh.jpg?raw=true" align="right" width="200px" height="300"/>
 
-Najmeh Khosroshahi obtained her Master's of Applied Science from [University of Victoria]([https://www.uvic.ca/), Victoria, B.C., Canada and Bachelor's of Applied Science from [University of Tehran](https://ut.ac.ir/en), Tehran, Iran both in Electrical Engineering with a minor in Wireless Communications.
-
-
+Najmeh Khosroshahi obtained her Master's of Applied Science from [University of Victoria](https://www.uvic.ca/), Victoria, B.C., Canada and Bachelor's of Applied Science from [University of Tehran](https://ut.ac.ir/en), Tehran, Iran both in Electrical Engineering with a minor in Wireless Communications.
 ## Research Interests
 - Artificial Intelligence(AI)
 - Applied Sustainability Technology
@@ -19,16 +18,21 @@ Najmeh Khosroshahi obtained her Master's of Applied Science from [University of 
 
 ## Publications
 
+
 ### Published Book: 
-![This is an image_2](https://github.com/nkhosros/N.-Khosroshahi/blob/main/MyBook.jpg?raw=true)
-- [Inter-vehicle Communication Systems Improvement](https://www.amazon.com/Inter-vehicle-Communication-Systems-Improvement-Synchronized/dp/3659393983): Having Safety and Speed Synchronized Requires the Best Possible Error Correction in Communication Systems 
- Publisher : LAP LAMBERT Academic Publishing (March 11, 2014)
- Language : English
- Paperback : 100 pages
- ISBN-10 : 3659393983
- ISBN-13 : 978-3659393983
- Item Weight : 5.6 ounces
- Dimensions : 5.91 x 0.23 x 8.66 inches
+
+- [Inter-vehicle Communication Systems Improvement](https://www.amazon.com/Inter-vehicle-Communication-Systems-Improvement-Synchronized/dp/3659393983):
+
+<img src="https://raw.githubusercontent.com/nkhosros/N.-Khosroshahi/c597e14e5a0c39f5591ace20e1684146a9549e2b/MyBook.jpg" align="right" width="200px" height="300"/>
+
+Having Safety and Speed Synchronized Requires the Best Possible Error Correction in Communication Systems 
+ - Publisher : LAP LAMBERT Academic Publishing (March 11, 2014)
+ - Language : English
+ - Paperback : 100 pages
+ - ISBN-10 : 3659393983
+ - ISBN-13 : 978-3659393983
+ - Item Weight : 5.6 ounces
+ - Dimensions : 5.91 x 0.23 x 8.66 inches
 
 ### Published Papers:
 - N. Khosroshahi and [T. A. Gulliver](https://www.ece.uvic.ca/~agullive/),"[Low Density Parity Check (LDPC) Codes for Dedicated Short Range Communication (DSRC) Systems](https://ieeexplore.ieee.org/document/5291266)", IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, University of Victoria, Victoria, B.C., Canada, August 2009.
@@ -38,24 +42,30 @@ Najmeh Khosroshahi obtained her Master's of Applied Science from [University of 
 
 
 ## Thesis Research Topic
-![This is an image_3](https://github.com/nkhosros/N.-Khosroshahi/blob/main/DSRC-Dedicated%20Short%20Range%20Communication.png?raw=true)
 
 ### Low Density Parity Check(LDPC) Codes for Dedicated Short Range Communication(DSRC) Systems.
 [DSpace_Link](https://dspace.library.uvic.ca/bitstream/handle/1828/3436/Khosroshahi_Najmeh_MAS_2011.pdf?sequence=7&isAllowed=y)
+
+<img src="https://raw.githubusercontent.com/nkhosros/N.-Khosroshahi/c597e14e5a0c39f5591ace20e1684146a9549e2b/DSRC-Dedicated%20Short%20Range%20Communication.png" align="right" width="400px" height="250"/>
+
 - Analyzation/optimization of Forward Error Correction(FEC) coding method applied in inter-vehicle wireless communication systems.
 - Suggestion of Low Density Parity Check (LDPC) Codes with less complexity therefore less expenses as an FEC coding method with much better performance in compare with conventional Convolutional coding method in Dedicated Short Range Communication(DSRC) systems.
 - Investigation of the Quasi-Cyclic LDPC codes' feasibility for DSRC systems via MATLAB programming and presenting it as a simpler, less expensive and even more efficient coding technique for DSRC systems which is considered as an Internet of Thing(IoT) in Intelligent Transportation Systems(ITS).
 
 ## Software and Programming Skills 
-![This is an image_4](https://github.com/nkhosros/N.-Khosroshahi/blob/main/DSRC-Dedicated%20Short%20Range%20Communication.png?raw=true)
+
 ### Programming Languages Skills
-- MATLAB, Microsoft Visual C++, VHDL (Xilinx ISE Simulator and Programming) - '''Advanced'''
+- __MATLAB__, Microsoft Visual __C++__, __VHDL__ (Xilinx ISE Simulator and Programming) - __Advanced__
 - Python, Verilog (ModelSim Simulator and Programming), Dreamweaver/HTML - Intermediate
+
+<img src="https://raw.githubusercontent.com/nkhosros/N.-Khosroshahi/5d702874c67226a8f423bef710f2f0cf7f4ed46e/SW.jpg" align="right" width="250px" height="250"/>
+
+
 ### Design and Simulation Skills
-- MATLAB, MATLAB-Simulink, Xilinx ISE Simulator and Programming (VHDL for FPGAs Virtex5 and Spartan3)-'''Advanced'''
+- __MATLAB__, __MATLAB-Simulink__, Xilinx ISE Simulator and Programming (__VHDL__ for FPGAs Virtex5 and Spartan3)- __Advanced__
 - OPNET(Network Simulator), PSPICE/HSPICE(Analog Circuit Simulator), MAX+PLUS and Altera Quartus (Verilog for PLDs, MAX 7000s) - Intermediate
 ### Software Skills
-- LaTeX, Cool Edit, MSOFFICE (Word, PowerPoint, Excel, Visio, FrontPage/HTML) - '''Advanced'''
+- LaTeX, Cool Edit, MSOFFICE (Word, PowerPoint, Excel, Visio, FrontPage/HTML) - __Advanced__
 - Altium Designer(PCB Design Software and Tools) - Beginner
 
 ## Professional Experience
@@ -70,8 +80,10 @@ Najmeh Khosroshahi obtained her Master's of Applied Science from [University of 
 - Run/Monitor real-time data streaming to/from Analog/Digital processing boards
 ### 2. English Educator
 - Teaching Cambridge Gold books to pre-intermediate, intermediate and advanced students.
+
 ### 3. Research and Development (R&D) Engineer
-![This is an image_4](https://raw.githubusercontent.com/nkhosros/N.-Khosroshahi/c597e14e5a0c39f5591ace20e1684146a9549e2b/Smart-Grids-Technology.jpg)
+<img src="https://raw.githubusercontent.com/nkhosros/N.-Khosroshahi/c597e14e5a0c39f5591ace20e1684146a9549e2b/Smart-Grids-Technology.jpg" align="right" width="400px" height="250"/>
+
 ####  Phase I - Smart Grid(SG) Networks
  - Translate customer’s requirement to the project technical documentation.
  - Research/Extract Smart Network telecommunication subsystems including WFAN/WAN, FAN/NAN, CPN(HAN/BAN/IAN) used in telecommunication and IOT industries.
@@ -83,22 +95,31 @@ Najmeh Khosroshahi obtained her Master's of Applied Science from [University of 
  - Research/Extract Electrical Vehicles (EVs) telecommunications requirements (including signal band width, data rate, coding rate, modulation types, OFDM symbol duration, etc.)
  - Research/extract the best suited available standard of Smart Grid(SG) telecommunication subsystems for the performing pilot.
  - Prepare and present an overall report on results.
- ![This is an image_4](https://raw.githubusercontent.com/nkhosros/N.-Khosroshahi/c597e14e5a0c39f5591ace20e1684146a9549e2b/Smart-Home-Technology.jpg)
+<img src="https://raw.githubusercontent.com/nkhosros/N.-Khosroshahi/c597e14e5a0c39f5591ace20e1684146a9549e2b/Smart-Home-Technology.jpg" align="right" width="400px" height="250"/>
+
 ### 4. University Instructor
  University of Applied Science and Technology, Tehran, Iran
 - Responsibilities: Teaching Computer Science/ICT undergraduate students.
 - Courses: Network Communications, Discrete Mathematics, Probability and Statistics, General Mathematics, Digital Logic Circuit, TCP/IP Protocols, Routing and Hardware Switching, Professional English, Workshop on Local Networks, Documentation.
+
 ### 5. Modem System Optimization Engineer
-![This is an image](https://github.com/nkhosros/N.-Khosroshahi/blob/main/Board.jpg?raw=true)
+
 - Conduct Digital/Analog Signal Processing via RTL coding and MATLAB simulations for system performance evaluation and optimization.
 - Develop VHDL codes to program XILINX FPGAs of module boards and verify the results via MATLAB and ISE Simulator.
 - Develop GUI via Visual C++ software programming for sanity check.
+
 ### 6. Processing Prototype Boards Tester
+
+<img src="https://raw.githubusercontent.com/nkhosros/N.-Khosroshahi/c597e14e5a0c39f5591ace20e1684146a9549e2b/Board.jpg" align="right"/>
+
 - Develop VHDL codes for the prototype processing boards mainly used in telecommunication, broadcasting and IOT industries via Xilinx ISE Simulator and Programming
 - Develop VHDL codes based on the desired applications to transmit/receive signal through specific interface such as PCI, PCIe, GbEthernet and USB.
 - Analysis/verification of data to obtain the satisfactory expectations via MATLAB.
 - Debug/solve the problems by examination of PCB schematics via Altium Designer.
 - Design GUI via VC++ programming for quality assurance of the product.
+
+
+
 ### 7. Wireless Interoperability Protocol Associate - IOT Team
 - Research in Motion (RIM), Kanata, Ottawa, ON, Canada 
 ### 8. Teaching Assistant
@@ -111,13 +132,13 @@ University of Victoria, Victoria, BC. Canada
 
 ## Relevant Training Courses 
 
-- Python in Machin Learning(ML), 72-Hour (Online Course)
-- MATLAB for development of wireless communications (specifically FEC block), 160-Hour
-- MATLAB for the sanity check and quality assurance of the product - 180-Hour
-- Microsoft Visual Studio C++ software programming for developing test procedure/providing GUI, 180-Hour
+- __Python__ in Machin Learning(ML), 72-Hour (Online Course)
+- __MATLAB__ for development of wireless communications (specifically FEC block), 160-Hour
+- __MATLAB__ for the sanity check and quality assurance of the product - 180-Hour
+- Microsoft Visual Studio __C++__ software programming for developing test procedure/providing GUI, 180-Hour
 - Xilinx ISE Simulator and Programming software/VHDL for analog/digital processing boards, 180-Hour
 - CDMA, Wi-Fi, UMTS technologies, 16-Hour
--  C++ for Electrical Engineering, 72-Hour (Online Course)
+- __C++__ for Electrical Engineering, 72-Hour (Online Course)
 
 ## References 
 | [T.Aaron Gulliver](https://www.ece.uvic.ca/~agullive/) | [Mahmoud Shahabadi](https://ece.ut.ac.ir/en/~shahabad) | [Nasser Masoumi](https://ece.ut.ac.ir/en/~nmasoumi) | Renato Sitton | Saman Mardani |
