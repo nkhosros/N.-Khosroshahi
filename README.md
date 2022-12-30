@@ -120,14 +120,11 @@ University of Victoria, Victoria, BC. Canada
 -  C++ for Electrical Engineering, 72-Hour (Online Course)
 
 ## References 
-| [T.Aaron Gulliver](https://www.ece.uvic.ca/~agullive/ T. Aaron Gulliver) | [Mahmoud Shahabadi](https://ece.ut.ac.ir/en/~shahabad Mahmoud Shahabadi) | [Nasser Masoumi](https://ece.ut.ac.ir/en/~nmasoumi Nasser Masoumi) | Renato Sitton | Saman Mardani |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-
-
-| Professor  | Professor  | Professor  | Content Cell  | Team Lead  | Chairman of the Board  |
+| [T.Aaron Gulliver](https://www.ece.uvic.ca/~agullive/) | [Mahmoud Shahabadi](https://ece.ut.ac.ir/en/~shahabad) | [Nasser Masoumi](https://ece.ut.ac.ir/en/~nmasoumi) | Renato Sitton | Saman Mardani |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Professor  | Professor  | Professor  | Team Lead  | Chairman of the Board  |
 | University of Victoria  | University of Tehran  | University of Tehran | Research In Motion  | Pardis Novel Processing Technology |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-|agullive@ece.uvic.ca|shahabad@ut.ac.ir|nmasoumi@ut.ac.ir|rsitton@rim.com|saman_mardani@alum.sharif.edu |
+|agullive@ece.uvic.ca|shahabad@ut.ac.ir|nmasoumi@ut.ac.ir|rsitton@rim.com|saman_mardani@alum.sharif.edu | | |
 
 
 
